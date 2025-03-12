@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "XqmX8Edww3E=",
+  "dgSpecHash": "FabizHILXxQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniil.CHerepov\\Desktop\\ProjectsC++\\DS\\pa2\\Valuator\\Valuator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Daniil.CHerepov\\Desktop\\ProjectsC++\\DS\\Pa2wPa1\\Valuator\\Valuator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniil.CHerepov\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Daniil.CHerepov\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Daniil.CHerepov\\.nuget\\packages\\stackexchange.redis\\2.8.24\\stackexchange.redis.2.8.24.nupkg.sha512",
+    "C:\\Users\\Daniil.CHerepov\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
